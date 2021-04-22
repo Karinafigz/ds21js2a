@@ -1,8 +1,5 @@
 //3. Factorial
-//   factorial(n)
-// -> n integer
-// <- the n first factorial elements
-//Gabriela Karina Figueroa G.
+//Gabriela Karina Figueroa G. 2A
 let n=prompt('Ingresa el numero para su factorial');
 let factorial=1;
 let x=1;
