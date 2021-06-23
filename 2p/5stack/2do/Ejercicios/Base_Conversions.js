@@ -44,9 +44,6 @@ function mulBase(num, base) {
    let base = 2;
    let newNum = mulBase(num, base);
    console.log(num + " convertido a base " + base + " es " + newNum);
-   num = 125;
-   base = 8;
-   newNum = mulBase(num, base);
-   console.log(num + " convertido a base " + base + " es " + newNum);
+
      
      
